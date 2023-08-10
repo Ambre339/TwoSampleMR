@@ -23,7 +23,7 @@ Description: A package for performing Mendelian randomization using GWAS
     recommend using this R package.
 License: MIT + file LICENSE
 Depends:
-    R (>= 4.0.0)
+    R (>= 3.6.0)
 Imports:
     cowplot,
     data.table,
